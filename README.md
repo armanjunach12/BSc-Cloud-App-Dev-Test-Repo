@@ -31,7 +31,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Linux OS
 - Cloud Computing Fundamentals
 - Soft Skills & Personality Development
-
+- 
 ### **Semester 3:**
 
 - Advanced Web Development (React.js, Node.js)
@@ -55,6 +55,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Internet of Things (IoT)
 - Serverless Computing & Kubernetes
 - Capstone Project - II
+- Software Engineering
 
 ### **Semester 6:**
 
