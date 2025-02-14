@@ -28,6 +28,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Object-Oriented Programming (Java)
 - Database Management Systems (SQL, NoSQL)
 - Operating Systems
+- Linux OS
 - Cloud Computing Fundamentals
 - Soft Skills & Personality Development
 
