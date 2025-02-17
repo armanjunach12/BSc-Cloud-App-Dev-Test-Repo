@@ -32,8 +32,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Operating Systems
 - Linux OS
 - Cloud Computing Fundamentals
-- Soft Skills & Personality Development
-- 
+- Soft Skills & Personality Development 
 ### **Semester 3:**
 
 - Advanced Web Development (React.js, Node.js)
