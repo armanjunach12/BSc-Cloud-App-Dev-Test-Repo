@@ -22,16 +22,17 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Web Development Basics (HTML, CSS, JavaScript)
 - Mathematics for Computing
 - Communication Skills
-- Indic Knowledge System (IKS)
+- Indic Knowledge System
 
 ### **Semester 2:**
 
 - Object-Oriented Programming (Java)
 - Database Management Systems (SQL, NoSQL)
 - Operating Systems
+- Linux OS
 - Cloud Computing Fundamentals
 - Soft Skills & Personality Development
-
+- 
 ### **Semester 3:**
 
 - Advanced Web Development (React.js, Node.js)
@@ -55,6 +56,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Internet of Things (IoT)
 - Serverless Computing & Kubernetes
 - Capstone Project - II
+- Software Engineering
 
 ### **Semester 6:**
 
@@ -62,7 +64,9 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - IT Ethics & Governance
 - Cloud Automation & Infrastructure as Code
 - Internship / Industry Collaboration
+- DevOps Engineer Training
 - Final Year Project
+- Ethical Hacking Basics
 
 ## 🏆 Career Opportunities
 
@@ -83,3 +87,5 @@ Graduates of this program can pursue careers in:
 - 📧 **Email:** admissions@marwadiuniversity.ac.in
 
 _Join us and build the future of cloud computing and application development! 🚀_
+
+This is how you edit something without creating any impact on the main file
