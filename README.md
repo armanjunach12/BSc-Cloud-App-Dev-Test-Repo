@@ -22,7 +22,8 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Web Development Basics (HTML, CSS, JavaScript)
 - Mathematics for Computing
 - Communication Skills
-- Indic Knowledge System
+- IKS (Indian Knowledge System)
+- English
 
 ### **Semester 2:**
 
