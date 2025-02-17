@@ -33,7 +33,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Linux OS
 - Cloud Computing Fundamentals
 - Soft Skills & Personality Development
-- 
+- Virsion Control
 ### **Semester 3:**
 
 - Advanced Web Development (React.js, Node.js)
@@ -89,4 +89,4 @@ Graduates of this program can pursue careers in:
 
 _Join us and build the future of cloud computing and application development! 🚀_
 
-This is how you edit something without creating any impact on the main file
+
