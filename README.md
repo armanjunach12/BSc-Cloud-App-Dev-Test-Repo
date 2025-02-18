@@ -12,6 +12,8 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Learn DevOps practices and CI/CD pipelines for efficient software deployment.
 - Implement security best practices in cloud and web applications.
 - Work on real-world projects and industry case studies.
+- Unleash creative potential in a like-minded social setting.urturement
+- Fostering a suitable enviorment for intellectual nurturement.
 
 ## 📚 Course Curriculum
 
