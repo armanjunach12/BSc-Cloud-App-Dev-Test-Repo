@@ -24,6 +24,8 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Communication Skills
 - IKS (Indian Knowledge System)
 - English
+- Introduction AI Tools 
+
 
 ### **Semester 2:**
 
@@ -50,6 +52,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Mobile App Development (Flutter, Android/iOS)
 - Big Data & Analytics
 - Capstone Project - I
+- Human-Computer Interaction(HCI)
 
 ### **Semester 5:**
 
@@ -69,6 +72,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - DevOps Engineer Training
 - Final Year Project
 - Ethical Hacking Basics
+- Enterprise Resource Planning(ERP)
 
 ## 🏆 Career Opportunities
 
